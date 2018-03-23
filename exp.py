@@ -1,4 +1,3 @@
-#!usr/bin/env python
 import sys
 
 def print_details():
@@ -7,6 +6,7 @@ def print_details():
     for x in range(10):
         number = number +1
     print('number is : {}'.format(number))
+	print('over')
 
 if __name__ =='__main__':
     print_details()
