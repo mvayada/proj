@@ -8,6 +8,7 @@ def print_details():
         number = number +1
     print('number is : {}'.format(number))
     print('This is a new line for checking SCM polling')
+    print('working')
 
 if __name__ =='__main__':
     print_details()
