@@ -7,6 +7,7 @@ def print_details():
     for x in range(20):
         number = number +1
     print('number is : {}'.format(number))
+    print('This is a new line for checking SCM polling')
 
 if __name__ =='__main__':
     print_details()
