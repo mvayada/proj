@@ -9,6 +9,7 @@ def print_details():
     print('number is : {}'.format(number))
     print('This is a new line for checking SCM polling')
     print('working')
+    print('second line')
 
 if __name__ =='__main__':
     print_details()
