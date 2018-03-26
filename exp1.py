@@ -10,6 +10,7 @@ def print_details():
     print('This is a new line for checking SCM polling')
     print('working')
     print('second line')
+    print('new line')
 
 if __name__ =='__main__':
     print_details()
